@@ -7,7 +7,7 @@ package censo;
 import java.util.Scanner;
 /**
  *
- * @author Seba
+ * @author Seba y Mauro
  */
 public class Censo {
 
